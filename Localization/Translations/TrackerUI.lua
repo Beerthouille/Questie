@@ -144,7 +144,7 @@ local trackerUILocales = {
         ["zhCN"] = "将任务连接到聊天框",
         ["zhTW"] = "將任務連結貼到對話",
         ["esES"] = "Vincular misión al chat",
-        ["frFR"] = nil,
+        ["frFR"] = "Insérer la quête dans le chat",
     },
     ["Show in Quest Log"] = {
         ["ptBR"] = "Visualizar as missões",
