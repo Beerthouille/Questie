@@ -48,7 +48,7 @@ local tooltipsUILocales = {
         ["zhCN"] = "需求",
         ["zhTW"] = "需求",
         ["esES"] = "Objetivo",
-        ["frFR"] = "Requises",
+        ["frFR"] = "Conditions requises",
     },
     ["You are ineligible for this quest"] = {
         ["ptBR"] = "Você não é elegível para esta missão",
@@ -84,7 +84,7 @@ local tooltipsUILocales = {
         ["zhCN"] = "你的进度",
         ["zhTW"] = "你的進度",
         ["esES"] = "Progreso",
-        ["frFR"] = "Progrès",
+        ["frFR"] = "Votre progression",
     },
     ["You have completed this quest"] = {
         ["ptBR"] = "Você completou esta missão",
@@ -108,7 +108,7 @@ local tooltipsUILocales = {
         ["zhCN"] = "任务开始于",
         ["zhTW"] = "任務始於",
         ["esES"] = "Empezado por",
-        ["frFR"] = "Début",
+        ["frFR"] = "Commencé par",
     },
     ["Ended by"] = {
         ["ptBR"] = "Fim",
@@ -120,7 +120,7 @@ local tooltipsUILocales = {
         ["zhCN"] = "任务结束于",
         ["zhTW"] = "任務結束於",
         ["esES"] = "Terminado por",
-        ["frFR"] = "Fin",
+        ["frFR"] = "Terminé par",
     },
     ["Completed on:"] = {
         ["ptBR"] = nil,
@@ -132,7 +132,7 @@ local tooltipsUILocales = {
         ["zhCN"] = nil,
         ["zhTW"] = nil,
         ["esES"] = nil,
-        ["frFR"] = nil,
+        ["frFR"] = "Terminé le",
     }
 }
 
