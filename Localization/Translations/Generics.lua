@@ -130,7 +130,7 @@ local genericsLocales = {
         ["zhCN"] = "不在显示",
         ["enUS"] = true,
         ["zhTW"] = nil,
-        ["frFR"] = nil,
+        ["frFR"] = "Ne plus afficher",
         ["esES"] = nil,
         ["esMX"] = nil,
     },
@@ -144,7 +144,7 @@ local genericsLocales = {
         ["zhCN"] = "自动",
         ["zhTW"] = "自動",
         ["esES"] = "Automático",
-        ["frFR"] = nil,
+        ["frFR"] = "Automatique",
     },
     ["Enabled"] = {
         ["ptBR"] = "Ativado",
@@ -192,7 +192,7 @@ local genericsLocales = {
         ["zhCN"] = "经验",
         ["zhTW"] = "經驗值",
         ["esES"] = nil,
-        ["frFR"] = nil,
+        ["frFR"] = "Expérience,
     },
     ["Alliance"] = {
         ["ptBR"] = nil,
@@ -204,7 +204,7 @@ local genericsLocales = {
         ["zhCN"] = nil,
         ["zhTW"] = nil,
         ["esES"] = nil,
-        ["frFR"] = nil,
+        ["frFR"] = "Alliance",
     },
     ["Horde"] = {
         ["ptBR"] = nil,
@@ -216,7 +216,7 @@ local genericsLocales = {
         ["zhCN"] = nil,
         ["zhTW"] = nil,
         ["esES"] = nil,
-        ["frFR"] = nil,
+        ["frFR"] = "Horde",
     },
     ["Quest ID"] = {
         ["ptBR"] = nil,
@@ -228,7 +228,7 @@ local genericsLocales = {
         ["zhCN"] = nil,
         ["zhTW"] = nil,
         ["esES"] = nil,
-        ["frFR"] = nil,
+        ["frFR"] = "ID de la quête",
     },
     ["Quest Level"] = {
         ["ptBR"] = nil,
@@ -240,7 +240,7 @@ local genericsLocales = {
         ["zhCN"] = nil,
         ["zhTW"] = nil,
         ["esES"] = nil,
-        ["frFR"] = nil,
+        ["frFR"] = "Niveau de la quête",
     },
     ["Quest Details"] = {
         ["ptBR"] = nil,
@@ -252,7 +252,7 @@ local genericsLocales = {
         ["zhCN"] = nil,
         ["zhTW"] = nil,
         ["esES"] = nil,
-        ["frFR"] = nil,
+        ["frFR"] = "Détails de la quête",
     },
     ["NPC Details"] = {
         ["ptBR"] = nil,
@@ -264,7 +264,7 @@ local genericsLocales = {
         ["zhCN"] = nil,
         ["zhTW"] = nil,
         ["esES"] = nil,
-        ["frFR"] = nil,
+        ["frFR"] = "Détails du PNJ",
     },
     ["Object Details"] = {
         ["ptBR"] = nil,
@@ -276,7 +276,7 @@ local genericsLocales = {
         ["zhCN"] = nil,
         ["zhTW"] = nil,
         ["esES"] = nil,
-        ["frFR"] = nil,
+        ["frFR"] = "Détails de l'objet",
     },
     ["Required Level"] = {
         ["ptBR"] = nil,
@@ -288,7 +288,7 @@ local genericsLocales = {
         ["zhCN"] = nil,
         ["zhTW"] = nil,
         ["esES"] = nil,
-        ["frFR"] = nil,
+        ["frFR"] = "Niveau requis",
     },
     ["Required Race"] = {
         ["ptBR"] = nil,
@@ -300,7 +300,7 @@ local genericsLocales = {
         ["zhCN"] = nil,
         ["zhTW"] = nil,
         ["esES"] = nil,
-        ["frFR"] = nil,
+        ["frFR"] = "Race requise",
     },
     ["Human"] = {
         ["ptBR"] = nil,
@@ -312,7 +312,7 @@ local genericsLocales = {
         ["zhCN"] = nil,
         ["zhTW"] = nil,
         ["esES"] = nil,
-        ["frFR"] = nil,
+        ["frFR"] = "Humain",
     },
     ["Orc"] = {
         ["ptBR"] = nil,
@@ -324,7 +324,7 @@ local genericsLocales = {
         ["zhCN"] = nil,
         ["zhTW"] = nil,
         ["esES"] = nil,
-        ["frFR"] = nil,
+        ["frFR"] = "Orc",
     },
     ["Dwarf"] = {
         ["ptBR"] = nil,
@@ -336,7 +336,7 @@ local genericsLocales = {
         ["zhCN"] = nil,
         ["zhTW"] = nil,
         ["esES"] = nil,
-        ["frFR"] = nil,
+        ["frFR"] = "Nain",
     },
     ["Nightelf"] = {
         ["ptBR"] = nil,
@@ -348,7 +348,7 @@ local genericsLocales = {
         ["zhCN"] = nil,
         ["zhTW"] = nil,
         ["esES"] = nil,
-        ["frFR"] = nil,
+        ["frFR"] = "Elfe de la nuit",
     },
     ["Undead"] = {
         ["ptBR"] = nil,
@@ -360,7 +360,7 @@ local genericsLocales = {
         ["zhCN"] = nil,
         ["zhTW"] = nil,
         ["esES"] = nil,
-        ["frFR"] = nil,
+        ["frFR"] = "Mort-vivant",
     },
     ["Tauren"] = {
         ["ptBR"] = nil,
@@ -372,7 +372,7 @@ local genericsLocales = {
         ["zhCN"] = nil,
         ["zhTW"] = nil,
         ["esES"] = nil,
-        ["frFR"] = nil,
+        ["frFR"] = "Tauren",
     },
     ["Gnome"] = {
         ["ptBR"] = nil,
@@ -384,7 +384,7 @@ local genericsLocales = {
         ["zhCN"] = nil,
         ["zhTW"] = nil,
         ["esES"] = nil,
-        ["frFR"] = nil,
+        ["frFR"] = "Gnome",
     },
     ["Troll"] = {
         ["ptBR"] = nil,
@@ -396,7 +396,7 @@ local genericsLocales = {
         ["zhCN"] = nil,
         ["zhTW"] = nil,
         ["esES"] = nil,
-        ["frFR"] = nil,
+        ["frFR"] = "Troll",
     },
     ["Goblin"] = {
         ["ptBR"] = nil,
@@ -408,7 +408,7 @@ local genericsLocales = {
         ["zhCN"] = nil,
         ["zhTW"] = nil,
         ["esES"] = nil,
-        ["frFR"] = nil,
+        ["frFR"] = "Gobelin",
     },
     ["Draenei"] = {
         ["ptBR"] = "Draenei",
