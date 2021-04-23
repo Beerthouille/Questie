@@ -12,7 +12,7 @@ local questStateLocales = {
         ["zhCN"] = nil,
         ["zhTW"] = nil,
         ["esES"] = nil,
-        ["frFR"] = nil,
+        ["frFR"] = Complété,
     },
     ["Failed"] = {
         ["ptBR"] = "Fracassado",
@@ -48,7 +48,7 @@ local questStateLocales = {
         ["zhCN"] = "已有",
         ["zhTW"] = "已有",
         ["esES"] = "Activa",
-        ["frFR"] = nil,
+        ["frFR"] = Active,
     },
     ["Event"] = {
         ["ptBR"] = "Evento",
