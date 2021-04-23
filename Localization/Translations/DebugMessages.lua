@@ -60,7 +60,7 @@ local debugMessagesLocales = {
         ["zhCN"] = "切换任务追踪窗口，输入  'show', 'hide', 'reset' 选项以显示、隐藏、重设追踪窗口",
         ["zhTW"] = "切換任務追蹤視窗。加上 'show', 'hide', 'reset' 選項以顯示、隱藏、重設追蹤視窗",
         ["esES"] = nil,
-        ["frFR"] = nil,
+        ["frFR"] = "Active/Désactive le traqueur. Ajouter 'afficher','masquer','reinitialiser' pour afficher/masquer ou reinitialiser explicitement le traqueur"
     },
     ["Toggles the Minimap Button for Questie"] = {
         ["ptBR"] = "Alterne o botão na miniplaca para Questie",
@@ -72,7 +72,7 @@ local debugMessagesLocales = {
         ["zhCN"] = "切换显示或隐藏Questie小地图图标",
         ["zhTW"] = "切換顯示或隱藏Questie小地圖圖示",
         ["esES"] = "Muestra el botón del minimapa para Questie",
-        ["frFR"] = "/Affiche ou désactive le bouton Questie autour de la mini-carte.",
+        ["frFR"] = "Affiche ou désactive le bouton Questie autour de la mini-carte.",
     },
     ["Adds manual notes to the map for a given NPC ID or name. If the name is ambiguous multipe notes might be added. Without a second command the target will be added to the map. The 'reset' command removes all notes"] = {
         ["ptBR"] = nil,
@@ -106,7 +106,7 @@ local debugMessagesLocales = {
         ["zhCN"] = "初始化Questie的数据库时出现问题。 通常可以通过重新编辑数据库来解决此问题。",
         ["enUS"] = true,
         ["zhTW"] = nil,
-        ["frFR"] = nil,
+        ["frFR"] = "Il a eu un problème pendant l'initialisation de la base de donnée de Questie. Cela peut être habituellement corrigé en recompilant la base de donnée",
         ["esES"] = nil,
         ["esMX"] = nil,
     },
@@ -144,7 +144,7 @@ local debugMessagesLocales = {
         ["zhCN"] = "图标限制值设置为 %s : Redrawing!",
         ["zhTW"] = nil,
         ["esES"] = "Establaciendo límite de icono a %s : Redibujando!",
-        ["frFR"] = nil,
+        ["frFR"] = "Définition de la valeur limite de l'icône sur %s : Redessiner!"  ,
     },
     ["You have updated Questie without restarting the game, this will likely cause problems. Please restart the game before continuing"] = {
         ["ptBR"] = "Você atualizou o Questie sem reiniciar o jogo, isso pode representar um problema. Por favor, reinicie o jogo antes de continuar",
@@ -204,7 +204,7 @@ local debugMessagesLocales = {
         ["zhCN"] = "正在读出 目标信息",
         ["zhTW"] = nil,
         ["esES"] = "Actualizando objetos",
-        ["frFR"] = "Mise à jour Objets",
+        ["frFR"] = "Mise à jour des objets",
     },
     ["Updating quests"] = {
         ["ptBR"] = "Atualizando missões",
@@ -216,7 +216,7 @@ local debugMessagesLocales = {
         ["zhCN"] = "正在读出 任务信息",
         ["zhTW"] = nil,
         ["esES"] = "Actualizando misiones",
-        ["frFR"] = "Mise à jour Quêtes",
+        ["frFR"] = "Mise à jour quêtes",
     },
     ["Updating items"] = {
         ["ptBR"] = "Atualizando itens",
@@ -228,7 +228,7 @@ local debugMessagesLocales = {
         ["zhCN"] = "正在读出 物品信息",
         ["zhTW"] = nil,
         ["esES"] = "Actualizando items",
-        ["frFR"] = "Mise à jour Objets",
+        ["frFR"] = "Mise à jour des objets",
     },
     ["Questie DB update complete!"] = {
         ["ptBR"] = "Atualização do Questie DB concluída!",
